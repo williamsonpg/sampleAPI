@@ -5754,9 +5754,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\williamsonpg\\source\\vistudio\\projects\\sampleAPI\\test\\sampleAPI.test\\sampleAPI.test.csproj",
-      "projectName": "sampleAPI.test",
-      "projectPath": "C:\\Users\\williamsonpg\\source\\vistudio\\projects\\sampleAPI\\test\\sampleAPI.test\\sampleAPI.test.csproj",
+      "projectUniqueName": "C:\\Users\\williamsonpg\\source\\vistudio\\projects\\sampleAPI\\test\\sampleAPI.test\\SampleAPI.test.csproj",
+      "projectName": "SampleAPI.test",
+      "projectPath": "C:\\Users\\williamsonpg\\source\\vistudio\\projects\\sampleAPI\\test\\sampleAPI.test\\SampleAPI.test.csproj",
       "packagesPath": "C:\\Users\\williamsonpg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\williamsonpg\\source\\vistudio\\projects\\sampleAPI\\test\\sampleAPI.test\\obj\\",
       "projectStyle": "PackageReference",
@@ -5826,14 +5826,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
