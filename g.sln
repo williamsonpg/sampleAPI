@@ -8,6 +8,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleAPI", "src\sampleAPI\SampleAPI.csproj", "{71AFAE69-2429-482C-B301-EF7CF4DECDB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C9E4BAB6-D2D6-43CA-8E9B-45B179B3673C}"
+	ProjectSection(SolutionItems) = preProject
+		test\sampleAPI.test\SampleAPI.test.csproj = test\sampleAPI.test\SampleAPI.test.csproj
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleAPI.test", "test\sampleAPI.test\SampleAPI.test.csproj", "{77747608-4635-42A3-86DF-9B7E8D68077E}"
 EndProject
