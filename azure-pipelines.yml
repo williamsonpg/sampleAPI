@@ -49,6 +49,7 @@ steps:
     projects: 'src/sampleAPI/sampleAPI.csproj'
     arguments: '--configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: true
+    #Package: '$(Build.ArtifactStagingDirectory)/sampleAPI.zip'
 
 - task: PublishBuildArtifacts@1
   displayName: 'publish artifacts'
